@@ -4,8 +4,6 @@
 
 ## USE LINK BELOW TO TEST CODE
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adomin10-prog/ECGR4106-HW5/blob/main/ECGR4106_HW5.ipynb)
-
 https://colab.research.google.com/github/adomin10-prog/ECGR4106-HW5/blob/main/ECGR4106_HW5.ipynb
 
 ---
@@ -18,7 +16,8 @@ https://colab.research.google.com/github/adomin10-prog/ECGR4106-HW5/blob/main/EC
 !pip install -q transformers fvcore
 ```
 
-         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 0.0/50.2 kB ? eta -:--:--     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 50.2/50.2 kB 3.1 MB/s eta 0:00:00
+         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 0.0/50.2 kB ? eta -:--:--
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 50.2/50.2 kB 3.1 MB/s eta 0:00:00
       Preparing metadata (setup.py) ... done
          ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 42.2/42.2 kB 5.2 MB/s eta 0:00:00
       Preparing metadata (setup.py) ... done
